@@ -1,0 +1,1 @@
+console.log('   '.match(/\s/g))
